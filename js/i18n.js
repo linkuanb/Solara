@@ -10,6 +10,7 @@
         "高品音质": "High Quality",
         "无损音质": "Lossless",
         "歌词将在此处同步显示": "Lyrics will be displayed here synchronously",
+        "Made by Wet Dream Boy，免费API来自GD音乐台(music.gdstudio.xyz)，仅供学习交流使用，请支持正版音乐。": "Made by Wet Dream Boy. Free API from GD Music (music.gdstudio.xyz). For educational purposes only, please support official releases.",
         "Made by Wet Dream Boy，免费API来自GD音乐台(music.gdstudio.xyz)，仅供学习交流使用，请支持正版音乐奥！": "Made by Wet Dream Boy. Free API from GD Music (music.gdstudio.xyz). For educational purposes only, please support official releases!",
 
         // index.html
@@ -80,9 +81,19 @@
         "复制失败": "Copy failed",
         "设置": "Settings",
         "探索雷达风格": "Radar Styles",
+        "探索雷达榜单": "Radar Charts",
+        "热歌榜": "Hot Songs",
+        "新歌榜": "New Songs",
+        "飙升榜": "Soaring Songs",
+        "潮流风向榜": "Trend Chart",
+        "原创榜": "Original Songs",
+        "网易云全球说唱榜": "Global Hip-Hop",
+        "美国Billboard榜": "Billboard Hot",
         "保存设置": "Save Settings",
         "已保存设置": "Settings saved",
+        "设置已保存": "Settings saved",
         "请至少选择一个风格": "Please select at least one genre",
+        "请至少选择一个榜单": "Please select at least one chart",
         "云端加载设置失败": "Failed to load settings from cloud"
     };
 
